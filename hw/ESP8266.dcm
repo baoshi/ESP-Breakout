@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-07
+D ESP-07
+K ESP8266
+$ENDCMP
+#
+#End Doc Library

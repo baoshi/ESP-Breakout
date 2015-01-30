@@ -1,0 +1,13 @@
+###############
+## KiCad      
+###############
+hw/*.bak
+hw/*cache.lib
+hw/*.bck
+hw/*.log
+hw/*.net
+hw/cam/
+hw/gerber/
+
+doc/*.docx
+

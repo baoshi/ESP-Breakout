@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 01/22/15 22:34:12
+
+BeginCmp
+TimeStamp = /54AD3E65;
+Reference = C1;
+ValeurCmp = 2u2;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD50D3;
+Reference = C2;
+ValeurCmp = 4u7;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD5071;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF2F9C;
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AAAAD0;
+Reference = M1;
+ValeurCmp = ESP-07;
+IdModule  = ESP8266:ESP-07;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD3CB0;
+Reference = P1;
+ValeurCmp = FTDI BASIC;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE7D67;
+Reference = P2;
+ValeurCmp = CONN_01X11;
+IdModule  = Breakout:SMD-PINHEADER-11A;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AE7843;
+Reference = P3;
+ValeurCmp = CONN_01X11;
+IdModule  = Breakout:SMD-PINHEADER-11B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD3D9E;
+Reference = Q1;
+ValeurCmp = BSS138;
+IdModule  = SMD_Packages:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD3C30;
+Reference = Q2;
+ValeurCmp = BSS138;
+IdModule  = SMD_Packages:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD3DBC;
+Reference = R1;
+ValeurCmp = 470K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD417F;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD7C25;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD84DF;
+Reference = R4;
+ValeurCmp = 47K;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD3C67;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:PUSH_4x4_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AD4F12;
+Reference = U1;
+ValeurCmp = 1117-3.3;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+EndListe

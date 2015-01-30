@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri ${KIPRJMOD}/esp8266.pretty)(options "")(descr ""))
+  (lib (name Breakout)(type KiCad)(uri ${KIPRJMOD}/breakout.pretty)(options "")(descr ""))
+  (lib (name Wwitch)(type KiCad)(uri ${KIPRJMOD}/wwitch.pretty)(options "")(descr ""))
+)
