@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 01/22/15 22:34:12
+Cmp-Mod V01 Created by Cvpcb (2014-12-30 BZR 5343)-product   date = 03/09/15 00:25:57
 
 BeginCmp
 TimeStamp = /54AD3E65;
@@ -11,14 +11,14 @@ BeginCmp
 TimeStamp = /54AD50D3;
 Reference = C2;
 ValeurCmp = 4u7;
-IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
 EndCmp
 
 BeginCmp
 TimeStamp = /54AD5071;
 Reference = C3;
 ValeurCmp = 10u;
-IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_HandSoldering;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave;
 EndCmp
 
 BeginCmp

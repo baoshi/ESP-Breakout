@@ -8,6 +8,6 @@ hw/*.log
 hw/*.net
 hw/cam/
 hw/gerber/
-
+hw/*.kicad_pcb-bak
 doc/*.docx
 
