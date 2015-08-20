@@ -1,4 +1,4 @@
-update=01/22/15 23:26:59
+update=8/20/2015 10:14:02 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,21 +6,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=transistors
-LibName4=conn
-LibName5=linear
-LibName6=regul
-LibName7=74xx
-LibName8=special
-LibName9=interface
-LibName10=contrib
-LibName11=esp8266
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -43,3 +28,27 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [general]
 version=1
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=power
+LibName2=C:/KiCad/share/kicad/library/device
+LibName3=transistors
+LibName4=conn
+LibName5=linear
+LibName6=regul
+LibName7=74xx
+LibName8=interface
+LibName9=contrib
+LibName10=esp8266
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
